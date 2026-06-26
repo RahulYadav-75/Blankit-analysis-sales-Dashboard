@@ -1,11 +1,11 @@
 # Blinkit Sales Dashboard (MS Excel)
-# Overview
+# 📌Project Overview
 This project is an interactive **MS Excel dashboard** built to analyze Blinkit sales, outlet performance, product categories, and customer ratings.
 ## Dashboard Preview
 
-![Dashboard](Blinkit dashboard.png)
+📸![Dashboard](Blinkit_dashboard.png)
 
-## Key KPIs
+## 📈Key KPIs
 
 -   **Total Sales:** \$1.20M
 -   **Average Sales:** \$141
@@ -47,7 +47,7 @@ Displays sales by product category.
 
 Analyzes outlet size, location, and outlet type.
 
-## Tools Used
+## 🛠️Tools Used
 
 -   Microsoft Excel
 -   Power Query
@@ -55,7 +55,7 @@ Analyzes outlet size, location, and outlet type.
 -   Pivot Charts
 -   Microsoft Excel / CSV
 
-## Business Insights
+## 💡Business Insights
 
 -   Medium outlets generate the highest sales.
 -   Tier 3 locations contribute the largest sales.
@@ -64,40 +64,57 @@ Analyzes outlet size, location, and outlet type.
 -   Average customer rating is 4.0.
   
 
-##   📂 Project Flow
-1. Data Collection
-Downloaded the Blinkit Grocery Sales dataset from Kaggle.
-2. Data Cleaning
-Removed duplicate records.
-Handled missing values.
-Corrected inconsistent data entries.
-Standardized column names and data formats.
-3. Data Preprocessing
-Transformed data using Power Pivot.
-Created calculated columns and measures using power.
-Built relationships between tables (if applicable).
-Optimized the dataset for reporting.
-4. Data Visualization
-Developed an interactive dashboard in Power BI.
-Added KPI Cards:
-Total Sales
-Average Sales
-Number of Items
-Average Rating
-Created visualizations:
-Sales Trend by Outlet Establishment Year
-Fat Content Analysis
-Item Type Analysis
-Outlet Size Distribution
-Outlet Location Analysis
-Outlet Type Performance
-Added interactive slicers for:
-Outlet Size
-Outlet Location
-Item Type
+## 📂Project Flow
+
+### 1. Data Collection
+
+* Downloaded the **Blinkit Grocery Sales** dataset from **Kaggle**.
+* Imported the dataset into Microsoft Excel for initial analysis.
+
+### 2. Data Cleaning
+
+* Removed duplicate records.
+* Handled missing values.
+* Corrected inconsistent data entries.
+* Standardized column names and data formats.
+* Verified data accuracy before analysis.
+
+### 3. Data Preprocessing
+
+* Transformed and cleaned the data using **Power Query**.
+* Created calculated columns and measures using **DAX**.
+* Built data relationships where required.
+* Optimized the dataset for reporting and visualization.
+
+### 4. Data Visualization
+
+Developed an interactive **Power BI Dashboard** with the following features:
+
+#### 📈KPI Cards
+
+* Total Sales
+* Average Sales
+* Number of Items
+* Average Rating
+
+#### 📉Visualizations
+
+* Sales Trend by Outlet Establishment Year
+* Fat Content Analysis
+* Item Type Analysis
+* Outlet Size Distribution
+* Outlet Location Analysis
+* Outlet Type Performance
+
+#### Interactive Filters (Slicers)
+
+* Outlet Size
+* Outlet Location
+* Item Type
+
     
     
-## Project Structure
+## 📂Project Structure
 
     Project/
     │── Blinkit-Grocery-Data.csv
@@ -119,7 +136,7 @@ Item Type
 -   Add forecasting.
 -   Mobile-optimized dashboard.
 
-## Author
+## 👨‍💻Author
 
 **Rahul Yadav**
 
