@@ -121,6 +121,8 @@ Developed an interactive **Power BI Dashboard** with the following features:
     │── Blinkit Grocery Data Dashboard.pbix
     │── Blinkit Dashboard.png
     │── README.md
+    │── Report.Pdf
+    
 
 ## How to Use
 
