@@ -65,15 +65,15 @@ Analyzes outlet size, location, and outlet type.
 ## Project Structure
 
     Project/
-    │── README.md
-    │── Blinkit Dashboard.pbix
-    │── Dataset.xlsx
+    │── Blinkit-Grocery-Data.csv
+    │── Blinkit a Dashboard.pbix
+    │── 
     │── Dashboard.png
 
 ## How to Use
 
 1.  Download the repository.
-2.  Open the `.pbix` file in Power BI Desktop.
+2.  Open the `.xlsx` file in MS Excel.
 3.  Refresh the dataset if required.
 4.  Use slicers to explore insights.
 
