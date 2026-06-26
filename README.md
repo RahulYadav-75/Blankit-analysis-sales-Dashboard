@@ -3,7 +3,7 @@
 This project is an interactive **MS Excel dashboard** built to analyze Blinkit sales, outlet performance, product categories, and customer ratings.
 ## Dashboard Preview
 
-📸![Dashboard](Blinkit_dashboard.png)
+📸![Dashboard](https://github.com/RahulYadav-75/Blankit-analysis-sales-Dashboard/blob/main/Blinkit%20dashboard.png)
 
 ## 📈Key KPIs
 
